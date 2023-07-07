@@ -21,6 +21,7 @@ Hello! I'm Haribhajan, a budding developer with a passion for creating innovativ
 - Description: This project focuses on providing a comprehensive and user-friendly platform for analyzing and visualizing data from the Joint Seat Allocation Authority (JoSAA) website. By leveraging web scraping techniques, data is extracted and stored in a MongoDB Atlas server. The platform offers various features, including trend analysis of opening and closing ranks, filtering options based on criteria such as category, gender, and college, as well as branch availability predictions based on rank and preferences. With intuitive visualizations and powerful search functionalities, the project aims to assist students in making informed decisions regarding their higher education admissions in IITs.
 - Technologies Used: MongoDB , Node.js , fetch-APIs, EJS-Templates
 - GitHub Repository: https://github.com/Haribhajank/JOSAA_DAP
+- Website Link: https://josaa-dap-x0gj.onrender.com
 
 
 
@@ -32,7 +33,7 @@ Throughout my professional journey, I have developed strong leadership and commu
 
 If you'd like to collaborate on a project or discuss any opportunities, feel free to reach out to me through the following channels:
 
-- Email: haribhajank5@gmail.com
+- Email: k.haribhajan@iitg.ac.in
 - LinkedIn: www.linkedin.com/in/haribhajank
 - Personal Website/Blog: www.inprogress/comingsoon.com
 
