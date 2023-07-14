@@ -41,7 +41,6 @@ Throughout my professional journey, I have developed strong leadership and commu
 If you'd like to collaborate on a project or discuss any opportunities, feel free to reach out to me through the following channels:
 
 - Email: k.haribhajan@iitg.ac.in
-- <i href="k.haribhajan@iitg.ac.in" class="fa-sharp fa-solid fa-envelope"></i>
 - LinkedIn: www.linkedin.com/in/haribhajank
 - Personal Website/Blog: www.inprogress/comingsoon.com
 
