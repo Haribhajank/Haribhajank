@@ -11,7 +11,7 @@
 ## Skills
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> &nbsp;
-<img width="48" height="48" src="https://img.icons8.com/officel/16/react.png" alt="react"/> &nbsp;
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> &nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> &nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> &nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> &nbsp;
