@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Haribhajank&color=blueviolet)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haribhajank&show_icons=true&theme=tokyonight)](https://github.com/Haribhajank/github-readme-stats)
-[![Twitter](https://fontawesome.com/icons/linkedin?f=brands&s=solid)](https://twitter.com/your-username)
+
 
 
 #   About Me
@@ -37,7 +37,7 @@ Hello! I'm Haribhajan, a budding developer with a passion for creating innovativ
 
 Throughout my professional journey, I have developed strong leadership and communication skills, which have proven valuable in managing teams and fostering collaboration. I believe in effective communication, active listening, and creating a positive and inclusive work environment.
 
-## Contact
+## Connect with me
 
 If you'd like to collaborate on a project or discuss any opportunities, feel free to reach out to me through the following channels:
 
@@ -48,13 +48,7 @@ If you'd like to collaborate on a project or discuss any opportunities, feel fre
 - LinkedIn: www.linkedin.com/in/haribhajank
 - Personal Website/Blog: www.inprogress/comingsoon.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/haribhajank" target="blank"><img align="center" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 
 
