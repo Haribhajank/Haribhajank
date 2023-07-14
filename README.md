@@ -34,7 +34,7 @@ Hello! I'm Haribhajan, a budding developer with a passion for creating innovativ
 
 ## Leadership and Communication Skills
 
-Throughout my professional journey, I have developed strong leadership and communication skills, which have proven valuable in managing teams and fostering collaboration. I believe in effective communication, active listening, and creating a positive and inclusive work environment.
+Throughout my journey, I have developed strong leadership and communication skills, which have proven valuable in managing teams and fostering collaboration. I believe in effective communication, active listening, and creating a positive and inclusive work environment.
 
 ## Connect with me
 
