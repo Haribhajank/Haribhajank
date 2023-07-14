@@ -1,8 +1,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Haribhajank&color=blueviolet)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haribhajank)](https://github.com/Haribhajank/github-readme-stats)
 
-#                                                                About Me
+
+#   About Me
 
 
 ## Skills
