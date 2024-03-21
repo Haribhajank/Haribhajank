@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Hello! I'm Haribhajan, a budding developer with a passion for creating innovative solutions and collaborating with teams. I have experience working with a range of technologies, including React, C++, and Python. I enjoy building scalable web applications and exploring new technologies to expand my skillset.
+Hello There !
 
 ## Projects
 
@@ -32,10 +32,6 @@ Hello! I'm Haribhajan, a budding developer with a passion for creating innovativ
 
 
 
-## Leadership and Communication Skills
-
-Throughout my journey, I have developed strong leadership and communication skills, which have proven valuable in managing teams and fostering collaboration. I believe in effective communication, active listening, and creating a positive and inclusive work environment.
-
 ## Connect with me
 
 If you'd like to collaborate on a project or discuss any opportunities, feel free to reach out to me through the following channels:
@@ -45,5 +41,4 @@ If you'd like to collaborate on a project or discuss any opportunities, feel fre
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" title="Instagram"/>](https://instagram.com/hari__1729?igshid=OTk0YzhjMDVlZA==)  &nbsp; 
 
 
-I look forward to connecting with you!
 
