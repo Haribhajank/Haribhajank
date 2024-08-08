@@ -18,7 +18,7 @@
 Hello There !
 
 
-### Project 1: Josaa Data Analysis Portal
+### Projects : Josaa Data Analysis Portal
 
 - Description: This project focuses on providing a comprehensive and user-friendly platform for analyzing and visualizing data from the Joint Seat Allocation Authority (JoSAA) website. By leveraging web scraping techniques, data is extracted and stored in a MongoDB Atlas server. The platform offers various features, including trend analysis of opening and closing ranks, filtering options based on criteria such as category, gender, and college, as well as branch availability predictions based on rank and preferences. With intuitive visualizations and powerful search functionalities, the project aims to assist students in making informed decisions regarding their higher education admissions in IITs.
 - Technologies Used: MongoDB , Node.js , fetch-APIs, EJS-Templates
