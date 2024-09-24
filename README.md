@@ -12,20 +12,14 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> &nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> &nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> &nbsp;
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="pytorch"/> &nbsp;
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="pandas"/> &nbsp;
+
 
 ## Introduction
 
-Hello There !
-
-
-### Projects : Josaa Data Analysis Portal
-
-- Description: This project focuses on providing a comprehensive and user-friendly platform for analyzing and visualizing data from the Joint Seat Allocation Authority (JoSAA) website. By leveraging web scraping techniques, data is extracted and stored in a MongoDB Atlas server. The platform offers various features, including trend analysis of opening and closing ranks, filtering options based on criteria such as category, gender, and college, as well as branch availability predictions based on rank and preferences. With intuitive visualizations and powerful search functionalities, the project aims to assist students in making informed decisions regarding their higher education admissions in IITs.
-- Technologies Used: MongoDB , Node.js , fetch-APIs, EJS-Templates
-- GitHub Repository: https://github.com/Haribhajank/JOSAA_DAP
-- Website Link: https://josaa-dap-x0gj.onrender.com
-
-
+Hi
+I'm Haribhajan , currently a final year student from IIT Guwahati pursuing my bachelor's degree in Physics. With a keen interest in data science and building web technologies, I also have a strong inclination towards learning new algorithms and improving my problem solving skills .
 
 ## Connect with me
 
