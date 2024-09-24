@@ -24,23 +24,23 @@ Hi, I'm Haribhajan!
 </p>
 
 ## 🌟 What I’m Up To
-### 🧠 Machine Learning Projects: Exploring ways to leverage Deep Learning to solve real-world problems like Computer Vision and NLP.
-### 🔭 Web Development: Building full-stack applications using React and Node.js with seamless backends using MongoDB.
-### ⚙️ Algorithmic Problem Solving: Continuously improving my skills by solving coding problems on platforms like Leetcode, Codeforces, and Hackerrank.
+#### 🧠 Machine Learning Projects: Exploring ways to leverage Deep Learning to solve real-world problems like Computer Vision and NLP.
+#### 🔭 Web Development: Building full-stack applications using React and Node.js with seamless backends using MongoDB.
+#### ⚙️ Algorithmic Problem Solving: Continuously improving my skills by solving coding problems on platforms like Leetcode, Codeforces, and Hackerrank.
 
 ## 📈 Current Highlights
-### 🎯 Worked on a Deep Learning project using PyTorch to simulate and design nanostructures based on spectra data.
-### 📝 Built an OCR tool to extract text from images using EasyOCR and managing GPU memory efficiently.
-### 🤖 Contributed to open-source projects as part of Hacktoberfest and developed automation scripts using Selenium.
+#### 🎯 Worked on a Deep Learning project using PyTorch to simulate and design nanostructures based on spectra data.
+#### 📝 Built an OCR tool to extract text from images using EasyOCR and managing GPU memory efficiently.
+#### 🤖 Contributed to open-source projects as part of Hacktoberfest and developed automation scripts using Selenium.
 
 ## 🎯 Goals for 2024
-Dive deeper into Reinforcement Learning and Generative AI.
-Build more impactful Data Science projects to contribute to open-source platforms.
-Actively participate in Hackathons and Competitions to hone my skills.
+##### Dive deeper into Reinforcement Learning and Generative AI.
+##### Build more impactful Data Science projects to contribute to open-source platforms.
+##### Actively participate in Hackathons and Competitions to hone my skills.
 
 
 ## 📬 Connect with Me
-I'm always open to discussing new projects, collaborations, and opportunities. Feel free to reach out!
+#### I'm always open to discussing new projects, collaborations, and opportunities. Feel free to reach out!
 
 <p> <a href="mailto:haribhajank5@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" title="Email"/></a> &nbsp; 
     <a href="https://www.linkedin.com/in/haribhajank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" title="LinkedIn"/></a> &nbsp; 
