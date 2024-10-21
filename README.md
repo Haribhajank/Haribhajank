@@ -13,6 +13,7 @@ Hi, I'm Haribhajan!
     <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python" title="Python"/> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native" title="React.js"/> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" title="Node.js"/> 
+    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django" title="Django"/> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" title="MongoDB"/> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git" title="Git"/> 
     <img width="48" height="48" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="pytorch" title="PyTorch"/> 
