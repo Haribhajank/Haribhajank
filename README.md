@@ -8,6 +8,10 @@ Hi, I'm Haribhajan!
 
 ## 🛠 Skills & Tools
 
+## Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haribhajank&layout=compact)
+
+
 ### Languages/Frameworks & ML Tools
 <p> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" title="C++"/> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python" title="Python"/> 
